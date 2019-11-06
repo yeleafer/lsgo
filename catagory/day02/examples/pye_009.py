@@ -5,3 +5,4 @@
 # @Author: cd
 # @FileName:pye_001.py
 # @Copyright: @2019-2020
+# 使用 time 模块的 sleep() 函数。

@@ -5,3 +5,5 @@
 # @Author: cd
 # @FileName:pye_001.py
 # @Copyright: @2019-2020
+
+# 输出 9*9 乘法口诀表。

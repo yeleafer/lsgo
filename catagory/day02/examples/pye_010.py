@@ -5,3 +5,5 @@
 # @Author: cd
 # @FileName:pye_001.py
 # @Copyright: @2019-2020
+
+# 暂停一秒输出，并格式化当前时间。
