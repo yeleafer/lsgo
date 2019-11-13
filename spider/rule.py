@@ -29,3 +29,9 @@ class PRule:
 
     def po(self):
         print "PRule print"
+
+
+# None = False
+if None:
+    print "None"
+
